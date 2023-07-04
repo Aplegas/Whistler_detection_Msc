@@ -4,5 +4,5 @@
 <img
   src="whistler_true.jpg"
   alt="Alt text"
-  title="Optional title"
+  title="An image of a real whistler wave"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
