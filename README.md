@@ -1,7 +1,7 @@
 # Whistler wave simulation scripts
 |![Alt text](whistler_true.jpg?raw=true "Actual whistler")|
 |:--:| 
-| *Space* |
+| *Real whistler wave* |
 
 <img
   src="whistler_true.jpg"
