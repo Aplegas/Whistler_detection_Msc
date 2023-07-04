@@ -1,1 +1,1 @@
-# Whistler wave simulation scrips
+# Whistler wave simulation scripts
