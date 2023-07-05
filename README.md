@@ -7,4 +7,3 @@ This repository hosts whistler wave simulation code, which was used to generate 
 |:--:| 
 | *Synthetic whistler with noise* |
 
-https://github.com/Aplegas/Whistler_detection_Msc/blob/main/Simulated_whistler.png
