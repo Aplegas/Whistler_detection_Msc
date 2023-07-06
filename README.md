@@ -3,7 +3,7 @@ This repository hosts whistler wave simulation code, which was used to generate 
                                |![Alt text](real_detected_whistler.jpg?raw=true "Actual whistler")|
 |:--:| 
 | *Real whistler wave* |
-|![Alt text](Simulated_whistler.jpg?raw=true "Actual whistler")|
+|![Alt text](simulated_whistler.jpg?raw=true "Actual whistler")|
 |:--:| 
 | *Synthetic whistler with noise* |
 
