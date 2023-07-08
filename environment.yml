@@ -1,0 +1,21 @@
+name: Msc
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - spyder
+  - scipy
+  - opencv==4.5.5
+  - albumentations
+  - scikit-learn-intelex
+  - shapely
+  - imgaug
+  - r-uuid
+  - more-itertools
+  - blessings
+  - sympy
+  - pylatex
+  - progressbar2
+
